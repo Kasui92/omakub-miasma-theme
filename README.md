@@ -13,6 +13,7 @@ omarchy-theme-install https://github.com/OldJobobo/omarchy-miasma-theme
 ```
 
 ## What's included
+
 - Hyprland rules and opacity tuning (`hyprland.conf`)
 - Hyprlock styling (`hyprlock.conf`)
 - Waybar colors (`waybar.css`)
@@ -24,7 +25,8 @@ omarchy-theme-install https://github.com/OldJobobo/omarchy-miasma-theme
 - Aether theme overrides (`aether.override.css`, `aether.zed.json`)
 
 ## Neovim note
-`neovim.lua` checks for the official Miasma theme for Omarchy (`https://github.com/xero/miasma.nvim`). If it is not installed, it falls back to an Aether-generated Miasma variant bundled with this theme.
+
+`neovim.lua` checks for the official Miasma theme (`https://github.com/xero/miasma.nvim`). If it is not installed, it falls back to an Aether-generated Miasma variant bundled with this theme.
 
 ## Wallpapers
 
@@ -37,5 +39,6 @@ omarchy-theme-install https://github.com/OldJobobo/omarchy-miasma-theme
 </table>
 
 ## Attribution
-- Miasma palette by xero: https://github.com/xero
-- Waybar modified from HANCORE-Linux's waybar themes: https://github.com/HANCORE-linux/waybar-themes
+
+- Miasma palette by xero: <https://github.com/xero>
+- Waybar modified from HANCORE-Linux's waybar themes: <https://github.com/HANCORE-linux/waybar-themes>
