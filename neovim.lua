@@ -41,15 +41,15 @@ return {
         -- Monotone shades (base00-base07)
         base00 = "#222222",         -- Default background
         base01 = "#666666",         -- Lighter background (status bars)
-        base02 = "#e5c47b",         -- Selection background
+        base02 = "#e4c47a",         -- Selection background
         base03 = "#666666",         -- Comments, invisibles
         base04 = "#c2c2b0",         -- Dark foreground
         base05 = "#c2c2b0",         -- Default foreground
         base06 = "#d7c483",         -- Light foreground
-        base07 = "#ffffff",         -- Light background
+        base07 = "#d7c483",         -- Light background
 
         -- Accent colors (base08-base0F)
-        base08 = "#b96f6f",         -- Variables, errors, red
+        base08 = "#685742",         -- Variables, errors, red
         base09 = "#685742",         -- Integers, constants, orange
         base0A = "#b36d43",         -- Classes, types, yellow
         base0B = "#5f875f",         -- Strings, green

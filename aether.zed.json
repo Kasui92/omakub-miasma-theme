@@ -21,7 +21,7 @@
         "element.active": null,
         "element.selected": "#000000",
         "element.disabled": null,
-        "drop_target.background": "#e5c47b",
+        "drop_target.background": "#e4c47a",
         "ghost_element.background": null,
         "ghost_element.hover": "#666666",
         "ghost_element.active": null,
@@ -44,7 +44,7 @@
         "tab_bar.background": "#222222",
         "tab.inactive_background": "#666666",
         "tab.active_background": "#222222",
-        "search.match_background": "#e5c47b",
+        "search.match_background": "#e4c47a",
         "panel.background": "#222222",
         "panel.focused_border": "#000000",
         "pane.focused_border": null,
@@ -73,8 +73,8 @@
         "terminal.ansi.black": "#000000",
         "terminal.ansi.bright_black": "#666666",
         "terminal.ansi.dim_black": null,
-        "terminal.ansi.red": "#b96f6f",
-        "terminal.ansi.bright_red": "#b96f6f",
+        "terminal.ansi.red": "#685742",
+        "terminal.ansi.bright_red": "#685742",
         "terminal.ansi.dim_red": null,
         "terminal.ansi.green": "#5f875f",
         "terminal.ansi.bright_green": "#5f875f",
@@ -91,7 +91,7 @@
         "terminal.ansi.cyan": "#c9a554",
         "terminal.ansi.bright_cyan": "#c9a554",
         "terminal.ansi.dim_cyan": null,
-        "terminal.ansi.white": "#ffffff",
+        "terminal.ansi.white": "#d7c483",
         "terminal.ansi.bright_white": "#d7c483",
         "terminal.ansi.dim_white": null,
         "link_text.hover": "#c9a554",
@@ -101,12 +101,12 @@
         "created": "#5f875f",
         "created.background": "#222222",
         "created.border": "#5f875f",
-        "deleted": "#b96f6f",
+        "deleted": "#685742",
         "deleted.background": "#222222",
-        "deleted.border": "#b96f6f",
-        "error": "#b96f6f",
+        "deleted.border": "#685742",
+        "error": "#685742",
         "error.background": "#222222",
-        "error.border": "#b96f6f",
+        "error.border": "#685742",
         "hidden": "#666666",
         "hidden.background": "#222222",
         "hidden.border": "#666666",
@@ -140,7 +140,7 @@
         "players": [
           {
             "cursor": "#c7c7c7",
-            "selection": "#e5c47b",
+            "selection": "#e4c47a",
             "background": null
           }
         ],
@@ -171,17 +171,17 @@
             "font_weight": null
           },
           "constructor": {
-            "color": "#b96f6f",
+            "color": "#685742",
             "font_style": null,
             "font_weight": null
           },
           "emphasis": {
-            "color": "#b96f6f",
+            "color": "#685742",
             "font_style": "italic",
             "font_weight": null
           },
           "emphasis.strong": {
-            "color": "#b96f6f",
+            "color": "#685742",
             "font_style": null,
             "font_weight": 700
           },
@@ -201,12 +201,12 @@
             "font_weight": null
           },
           "link_text": {
-            "color": "#b96f6f",
+            "color": "#685742",
             "font_style": null,
             "font_weight": null
           },
           "link_uri": {
-            "color": "#b96f6f",
+            "color": "#685742",
             "font_style": null,
             "font_weight": null
           },
@@ -266,7 +266,7 @@
             "font_weight": null
           },
           "tag": {
-            "color": "#b96f6f",
+            "color": "#685742",
             "font_style": null,
             "font_weight": null
           },
@@ -286,12 +286,12 @@
             "font_weight": null
           },
           "variable": {
-            "color": "#b96f6f",
+            "color": "#685742",
             "font_style": null,
             "font_weight": null
           },
           "variable.special": {
-            "color": "#b96f6f",
+            "color": "#685742",
             "font_style": "italic",
             "font_weight": null
           }
