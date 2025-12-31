@@ -53,7 +53,7 @@
 @define-color popover_fg_color @foreground;
 
 @define-color destructive_bg_color @red;
-@define-color destructive_fg_color @background;
+@define-color destructive_fg_color @foreground;
 
 @define-color success_bg_color @green;
 @define-color success_fg_color @background;
@@ -62,7 +62,7 @@
 @define-color warning_fg_color @background;
 
 @define-color error_bg_color @red;
-@define-color error_fg_color @background;
+@define-color error_fg_color @foreground;
 
 @define-color dialog_bg_color @background;
 @define-color dialog_fg_color @foreground;
