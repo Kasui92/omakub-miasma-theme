@@ -62,9 +62,6 @@ return {
     config = function(_, opts)
       require("aether").setup(opts)
       vim.cmd.colorscheme("aether")
-
-      -- Enable hot reload
-      require("aether.hotreload").setup()
     end,
   },
   {
